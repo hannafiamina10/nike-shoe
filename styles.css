@@ -1,0 +1,382 @@
+.general_padding {
+    padding-left: 8%;
+    padding-right: 8%;
+}
+h1{
+    display: inline-block;
+}
+
+.go_nike {
+    color: pink;
+}
+
+.btn-cart {
+    background-color: pink;
+    color: whitesmoke;
+}
+
+.btn-light {
+    color: pink;
+}
+
+.col {
+    margin: 0%;
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 62px;
+    font-weight: 750;
+    line-height: 108px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.planning {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.amount {
+    padding-left: 170px !important;
+    top: -60px;
+    right: 200px;
+    width: 300PX;
+}
+
+.shoe {
+    top:   -220px;
+    right: -200px;
+    width: 927.76px;
+    height: 816.17px;
+    rotate: (-22.83deg) ;
+}
+
+.bott {
+    margin-left: 50pxs;
+}
+
+.rope {
+    top: 225px;
+    right: 180px;
+}
+
+h3 {
+    padding-left: 4px;
+    font-family: Poppins;
+    font-size: 77px;
+    font-weight: 400;
+    line-height: 115px;
+    letter-spacing: 0em;
+    color: rgba(136, 133, 130, 0.767);
+
+}
+
+.previous {
+    white-space: nowrap;
+    height: 2%;
+
+}
+
+.officer{
+    right: -45%;
+    top: 100%;
+
+}
+
+
+.sponsors {
+    position: absolute;
+    width: 100%;
+    height: 145px;
+    left: 0px;
+
+
+    background: rgba(196, 196, 196, 0.36);
+}
+
+.second_shoe {
+    top: 2%;
+    left: 1%;
+    margin-top: 6%;
+}
+
+.background_2 {
+    /* top: 2%; */
+}
+
+.second_section {
+    margin-top: 20% !important;
+}
+
+.amount2 {
+    left: 20%;
+    
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.nikeGo {
+    align-items: center;
+    margin-left: 25%;
+}
+
+h4 {
+    margin-bottom:20px ;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+    height: 150px;
+    width: 400px;
+    left: 711px;
+    top: 1263px;
+    border-radius: nullpx;
+
+
+}
+
+.samosa {
+margin-top: 20px;
+
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+
+height: 54px;
+width: 595px;
+left: 711px;
+top: 1463px;
+border-radius: nullpx;
+
+}
+
+.pink_samosa {
+    color: rgb(207, 85, 105);
+}
+
+.background_3 {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.shoe3 {
+    top: 5%;
+    right: 1%;
+}
+
+.amount3 {
+    top: -2%;
+    right: 31%;
+}
+.amount4 {
+    left: 20%;
+    
+    margin-left: 5%;
+    margin-top: -2%;
+}
+
+.shoe4 {
+    top: -15%;
+    left: 1%;
+    margin-top: 6%;
+}
+
+.background_3 {
+    right: 0%;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: 0em;
+/* text-align: left; */
+
+}
+
+.customer1 {
+    border: solid pink;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+
+    padding: 20px 15px;
+}
+
+.customer2 {
+    border: solid pink;
+    background-color: rgb(207, 85, 105);
+    width: 450px;
+    height: 300px;
+    border-radius: 10px;
+
+    padding: 40px 30px;
+}
+
+.customer3 {
+    padding: 20px 15px;
+
+    border: solid pink;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+
+    /* padding: 20px 0px; */
+}
+
+.customer3_wear {
+    padding: 25px 25px;
+    padding-bottom: 10px !important;
+    
+
+    font-family: Poppins;
+font-size: 11px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+
+
+ /* height: 32px;
+width: 279px;
+ left: 37px; 
+top: 61px;
+border-radius: nullpx;  */
+
+}
+
+.customer3_wearp {
+    padding-top: 7px;
+    white-space: nowrap;
+
+    height: 14px;
+width: 91px;
+left: 91px;
+top: 149.342529296875px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 10px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+ .customer_image {
+    /* padding-left: 25px;
+    padding-top: 20px; */
+
+    margin-top: 25px;
+    margin-left: 25px;
+} 
+
+h5 {
+    height: 120px;
+width: 555px;
+left: 120px;
+top: 3873px;
+border-radius: nullpx;
+
+
+font-family: Poppins;
+font-size: 40px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.subscribe {
+    height: 27px;
+width: 547px;
+left: 120px;
+top: 4025px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+.btn-cart2 {
+    background-color: rgb(184, 181, 181);
+    color: whitesmoke;
+    width: 300px;
+    padding-left: 20px;
+
+
+
+
+}
+
+.btn-cart3 {
+    background-color: pink;
+    color: whitesmoke;
+    width: 150px;
+
+
+
+
+}
+
+.nana_soname {
+    top: -25%;
+
+}
+
+.akamira {
+     margin-left: 50%; 
+    white-space: nowrap;
+}
+
+.xara {
+    height: 27px;
+width: 421px;
+left: 43px;
+top: 0px;
+border-radius: nullpx;
+
+
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+
+white-space: nowrap;
+}
+
+.nanu {
+    margin-top: 50%;
+}
